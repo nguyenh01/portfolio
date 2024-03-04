@@ -46,5 +46,6 @@ module.exports = {
         jsxSingleQuote: true
       }
     ]
-  }
+  },
+  ignorePatterns: ['.husky']
 }
